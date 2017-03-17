@@ -1,0 +1,10 @@
+/* TEAM */
+  Owner/ Admin/ coder/ UI Developer: Juan C. Cruz
+  From: Hatillo, Puerto Rico
+
+/* SITE */
+  Last update: 03/17/2017
+
+  Standards: HTML5, CSS3 + my own.
+  Components/frameworks/plugins, etc: Modernizr, Bootstrap.
+  Software: Notepad, Atom, GitHub App.
