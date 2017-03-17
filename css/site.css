@@ -5,3 +5,30 @@
     background-color: #2E2D88;
     color: white;
 }
+
+.profileArticle header {
+
+  margin: 0 auto;
+  margin-top: 3em;
+  max-width: 22em;
+  padding: 2em;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.noise {
+backgorund color: #373737;
+
+}
+/*====================================================================*/
+/*codigo fuente: http://bavotasan.com/2011/circular-images-with-css3/ */
+/*====================================================================*/
+.circular {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+	background: no-repeat;
+
+	}
