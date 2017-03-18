@@ -3,8 +3,8 @@
   From: Hatillo, Puerto Rico
 
 /* SITE */
-  Last update: 03/17/2017
+  Last update: 03/18/2017
 
   Standards: HTML5, CSS3 + my own.
-  Components/frameworks/plugins, etc: Modernizr, Bootstrap.
+  Components/frameworks/plugins, etc: Normalize, Bootstrap, my stupid videos.
   Software: Notepad, Atom, GitHub App.

@@ -17,7 +17,9 @@
 }
 
 .noise {
-backgorund color: #373737;
+background-color: #373737;
+background-image: url("../images/noise.png");
+background-repeat: repeat;
 
 }
 /*====================================================================*/
