@@ -2,12 +2,13 @@
 }
 
 .jumbotron {
-    background-color: #2E2D88;
-    color: white;
+	background-color: #2E2D88;
+
+	padding-top: 50px;
 }
 
-.profileArticle header {
-
+.profileArticle {
+	padding-top: 80px;
   margin: 0 auto;
   margin-top: 3em;
   max-width: 22em;
@@ -34,3 +35,11 @@ background-repeat: repeat;
 	background: no-repeat;
 
 	}
+
+#footer{
+	margin-top: 20px;
+	text-align: center;
+	background:#222;
+	color:#fff;
+	padding:30px 0 20px 0;
+}
