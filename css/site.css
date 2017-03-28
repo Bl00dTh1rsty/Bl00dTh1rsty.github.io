@@ -1,9 +1,9 @@
-﻿body {
+body {
+  padding-top: 50px;
 }
 
 .jumbotron {
 	background-color: #2E2D88;
-
 	padding-top: 50px;
 }
 
@@ -25,7 +25,6 @@ background-repeat: repeat;
 }
 /*====================================================================*/
 /*codigo fuente: http://bavotasan.com/2011/circular-images-with-css3/ */
-/*====================================================================*/
 .circular {
 	width: 150px;
 	height: 150px;
@@ -33,9 +32,22 @@ background-repeat: repeat;
 	-webkit-border-radius: 75px;
 	-moz-border-radius: 75px;
 	background: no-repeat;
-
 	}
+	/*====================================================================*/
 
+
+section#titleBar{
+background: #373737;
+padding: 0;
+margin: 0;
+height: 80px;
+color: white;
+
+}
+
+section#titleBar h1{
+	margin-bottom: 20px;
+}
 #footer{
 	margin-top: 20px;
 	text-align: center;
