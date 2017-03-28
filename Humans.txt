@@ -3,8 +3,7 @@
   From: Hatillo, Puerto Rico
 
 /* SITE */
-  Last update: 03/18/2017
+  Last update: 03/27/2017
 
-  Standards: HTML5, CSS3 + my own.
-  Components/frameworks/plugins, etc: Normalize, Bootstrap, my stupid videos.
+  Built with: HTML5(Bootstrap), CSS3, Normalize.css, JavaScript, JQuery, my stupid videos.
   Software: Notepad, Atom, GitHub App.
