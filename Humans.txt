@@ -3,7 +3,7 @@
   From: Hatillo, Puerto Rico
 
 /* SITE */
-  Last update: 03/27/2017
+  Last update: 10/Nov/2017
 
-  Built with: HTML5(Bootstrap), CSS3, Normalize.css, JavaScript, JQuery, my stupid videos.
+  Built with: HTML5(Bootstrap V4), lot of patiance & my stupid videos.
   Software: Notepad, Atom, GitHub App.
