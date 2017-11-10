@@ -1,21 +1,6 @@
-body {
-  padding-top: 50px;
-}
 
-.jumbotron {
-	background-color: #2E2D88;
-	padding-top: 50px;
-}
 
-.profileArticle {
-	padding-top: 80px;
-  margin: 0 auto;
-  margin-top: 3em;
-  max-width: 22em;
-  padding: 2em;
-  text-align: center;
-  border-radius: 3px;
-}
+
 
 .noise {
 background-color: #373737;
@@ -23,6 +8,7 @@ background-image: url("../images/noise.png");
 background-repeat: repeat;
 
 }
+
 /*====================================================================*/
 /*codigo fuente: http://bavotasan.com/2011/circular-images-with-css3/ */
 .circular {
@@ -35,23 +21,12 @@ background-repeat: repeat;
 	}
 	/*====================================================================*/
 
-
-section#titleBar{
-background: #373737;
-padding: 0;
-margin: 0;
-height: 80px;
-color: white;
-
-}
-
-section#titleBar h1{
-	margin-bottom: 20px;
-}
-#footer{
-	margin-top: 20px;
-	text-align: center;
-	background:#222;
-	color:#fff;
-	padding:30px 0 20px 0;
+.footer {
+	margin-top: 50px;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    line-height: 60px;
+    background-color: #222;
 }
